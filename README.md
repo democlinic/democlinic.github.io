@@ -1,2 +1,2 @@
 # democlinic.github.io
-demo
+demo project
